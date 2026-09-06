@@ -2,4 +2,9 @@
 
 ## Supported Languages
 
-The initial version supports English and Spanish.
+The current version supports:
+
+- English
+- Spanish
+- French
+- German
