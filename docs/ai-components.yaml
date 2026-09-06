@@ -1,7 +1,7 @@
-product_version: 0.3.0
+product_version: 1.0.0
 
 application:
-  commit: 7994143
+  commit: 2027f174a15d6c9ed8dfd46525ed07e2622faa05
 
 model:
   name: mini-interpreter-placeholder

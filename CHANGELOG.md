@@ -2,6 +2,15 @@
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-09-06
+
+### Breaking Changes
+- Changed the translation API to require an explicit source language.
+- Existing callers using the previous two-argument interface must be updated.
+
+### Changed
+- Translation output now includes source and target languages.
+
 ## [0.3.0] - 2026-09-06
 
 ### Added
