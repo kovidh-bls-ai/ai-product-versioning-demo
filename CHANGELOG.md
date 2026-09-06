@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+## [0.3.0] - 2026-09-06
+
+### Added
+- Improved system prompt for more focused and natural responses.
+- Added instruction to avoid unnecessary explanations.
+- Added instruction to preserve speaker tone and intent.
+
 ## [0.2.1] - 2026-09-06
 
 ### Fixed
