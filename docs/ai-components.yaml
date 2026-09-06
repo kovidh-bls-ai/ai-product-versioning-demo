@@ -1,0 +1,19 @@
+product_version: 0.2.1
+
+application:
+  commit: 7994143
+
+model:
+  name: mini-interpreter-placeholder
+  version: 1
+
+prompt:
+  name: system_prompt
+  version: 2
+
+knowledge_base:
+  version: 1
+
+evaluation:
+  test_suite: pytest
+  tests_passed: 3
