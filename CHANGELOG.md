@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [0.2.1] - 2026-09-06
+
+### Fixed
+- Fixed case-insensitive language selection.
+- Normalized language input before translation.
+
 ## [0.2.0] - 2026-09-06
 
 ### Added
