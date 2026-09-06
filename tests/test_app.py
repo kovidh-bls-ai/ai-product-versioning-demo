@@ -11,3 +11,7 @@ def test_unsupported_language():
         assert False
     except ValueError:
         assert True
+
+
+def test_translate_case_insensitive():
+    assert translate("Hello", "spanish") == "[Spanish] Hello"
